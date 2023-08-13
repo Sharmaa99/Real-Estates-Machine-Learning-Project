@@ -4,10 +4,10 @@
 <a href="https://github.com/Sharmaa99/Real-Estates-Machine-Learning-Project/blob/aa8d7e727601f7a3a8be26320c8f1d76b294bb1a/download.png"></a>
 # Model Outputs
 1. Decision Tree:
-2.
+   
 Mean: 4.189504502474483 Standard deviation: 0.848096620323756
 
-2. Linear Regression:
+3. Linear Regression:
 
 Mean: 4.221894675406022
 
