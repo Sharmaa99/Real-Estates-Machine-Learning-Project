@@ -20,4 +20,4 @@ Mean: 3.494650261111624
 Standard deviation: 0.762041223886678
 
 <br><i>Since Random Forest Regressor is found to be most accurate and precise, we trained our data with this model for future predictions of price!
-</i
+
